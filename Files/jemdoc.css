@@ -212,7 +212,8 @@ li {
     max-width: 820px;
 }
 
-/* News */
+/*
+News
 .news-list {
     list-style: disc;
     padding-left: 20px;
@@ -231,6 +232,7 @@ li {
     width: 82px;
     white-space: nowrap;
 }
+*/
 
 /* Paper list - no bullets */
 #Papers ul {
@@ -396,11 +398,6 @@ li {
         font-size: 14px;
     }
 
-    .news-date {
-        font-size: 14px;
-        width: auto;
-        margin-right: 6px;
-    }
 }
 
 @media (max-width: 560px) {
