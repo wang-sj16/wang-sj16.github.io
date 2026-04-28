@@ -249,11 +249,6 @@ News
     font-size: 16px;
 }
 
-/* News list */
-#News ul {
-    list-style-type: disc;
-}
-
 /* Highlight box */
 .highlight {
     background: #ffffd0;
