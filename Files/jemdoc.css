@@ -35,6 +35,10 @@ a:hover, a:focus {
     color: #f09228;
 }
 
+.nvidia-green {
+    color: #76b900;
+}
+
 /* Headings */
 h1, h2, h3 {
     font-weight: bold;
